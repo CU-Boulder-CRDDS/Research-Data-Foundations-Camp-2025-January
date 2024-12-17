@@ -26,4 +26,4 @@ If you'd like to access the presentation slide-deck in its own window, please cl
 
 ## Additional Resources
 
-* [Finding Data Libguide](https://libguides.colorado.edu/findingdatasets/2023/databootcamp)
+* [Finding Data Libguide](https://libguides.colorado.edu/findingdata/2025/databasics)

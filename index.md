@@ -16,7 +16,7 @@ _Slides and other workshop content not yet finalized._
 | --- | ---|----|
 | 10:00-10:25 | [Welcome and Introduction](content/introduction.html)|Matthew Murray|
 | 10:30-11:15| [Data Discovery](content/data-discovery.html)| Liz Novosel|
-| 11:15-12:00| [Data Ethics](content/data-ethics.html)| Katerina Allmendinger|
+| 11:15-12:00| [Interdisciplinary Tools Tour](content/interdisciplinary-tour.html)| Nickoal Eichmann-Kalwara|
 | 12:00-1:00| Break|
 | 1:00-3:00| [GitHub](content/git_github.html)| Phil White|
 | 3:00-3:15| Break|
@@ -27,7 +27,7 @@ _Slides and other workshop content not yet finalized._
 | Time | Content|Presenter(s)|
 | --- | ---|----|
 | 10:00-11:15| [Data Management](content/data_management.html)|Mara Sedlins|
-| 11:15-12:00| [Interdisciplinary Tools Tour](content/interdisciplinary-tour.html)| Nickoal Eichmann-Kalwara|
+| 11:15-12:00| [Data Ethics](content/data-ethics.html)| Katerina Allmendinger|
 | 12:00-1:00 | Break|
 | 1:00-2:00| [Data Publishing](content/data-publishing-CU-scholar.html)| Melissa Cantrell|
 | 2:00-3:00 | Python & R Installation Clinic|
