@@ -13,14 +13,14 @@ The goal of the Research Data Foundations Camp Microcredential is to provide lea
 
 To earn the microcredential certifying literacy in these areas, learners must complete the following:
 
-* Attend **all three days** of the Research Data Foundations Camp
+* Attend **all four days** of the Research Data Foundations Camp
 * Complete a final project (described below) that demonstrates specific knowledge and skills taught at the Research Data Foundations Camp
 
 For more on what microcredentials are, and why you should consider earning one, please see this resource from CU Boulder's [Office of the Registrar](https://www.colorado.edu/registrar/faculty-staff/programs/micro-credentials). 
 
 ## Final Project
 
-**The final project will be due by October 31, 2024; to submit the project, push your project code to a dedicated GitHub repository, and send us a link to the repository.**
+**The final project will be due by January 19th, 2025; to submit the project, push your project code to a dedicated GitHub repository, and send us a link to the repository.**
 
 Final projects will consist of a portfolio of work hosted on a GitHub repository (you are also encouraged to publish your portfolio materials via GitHub pages; see below). Completed microcredential project portfolios must include the following elements:
 
@@ -61,6 +61,10 @@ To give you a sense of the nature and scope of a possible project, consider the 
 2. **We are here to help!** Please reach out if you'd like assistance with your microcredential project. 
 
 3. **Explore relevant online resources** In addition to reaching out to us for help, we also encourage you to take this opportunity to troubleshoot possible problems by seeking help from online resources and documentation relevant to R and Python. These resources are substantial, and an important part of the learning process involves self-directed troubleshooting using these resources.
+
+## help
+
+If you need help you can attend CRDDS' Interdisciplinary Consultation Hours on [Tuesday, January 14th](https://colorado.libcal.com/calendar/events/CHTuesdays10) from 12:00-1:00pm (in-person or virtual) or [Thursday, January 16th](https://colorado.libcal.com/calendar/events/CHThursdays) from 1:00-2:00pm (virtual only). If you plan to attend either of these sessions, please complete the registration forms linked above.
 
 ## Turn in Your Final Portfolio Project!
 Use this [Google Survey link](https://docs.google.com/forms/d/e/1FAIpQLScg1zEMAX7CqgimJc53fyBroUagLvjjLPkNMfdR5-8nx0OhcA/viewform?usp=share_link) to turn in your project. In addition to filling out the form, please also email us with a link to the GitHub page or repository that hosts your project materials. 

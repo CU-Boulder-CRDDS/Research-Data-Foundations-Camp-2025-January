@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Working with Data
+title: Data Visualization
 parent: Python
-nav_order: 3
+nav_order: 4
 has_children: false
 ---
 

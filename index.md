@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 # January 2025 Research Data Foundations Camp
-Sponsored by the [Center for Research Data and Digital Scholarship (CRDDS)](https://www.colorado.edu/crdds/) and  Colorado State University Libraries.
+Sponsored by the [Center for Research Data and Digital Scholarship (CRDDS)](https://www.colorado.edu/crdds/) and [Colorado State University Libraries](https://lib.colostate.edu/services/data-management/).
 
 ## Schedule
 
@@ -48,9 +48,9 @@ _Slides and other workshop content not yet finalized._
 
 | Time | Content|Presenters(s)
 | --- | ---|----|
-| 10:00-12:00| [Python Fundamentals/Data Analysis in Python, Session #1](content/data-analysis-in-python/python_data_analysis.html)| Kevin Worthington|
+| 10:00-12:00| [Python Fundamentals/Data Analysis in Python, Session #1](content/data-analysis-in-python/python102.html)| Kevin Worthington|
 | 12:00-1:00| Break|
-| 1:00-3:00| [Python Fundamentals/Data Analysis in Python, Session #2](content/data-analysis-in-python/python_data_analysis.html)| Kevin Worthington|
+| 1:00-3:00| [Python Fundamentals/Data Visualization in Python, Session #2](content/data-analysis-in-python/python201.html)| Kevin Worthington|
 | 3:00-3:15| Break|
 | 3:15-4:30| Working Session #3|
 
@@ -77,12 +77,13 @@ University of Colorado Boulder Libraries
 Ellery Galvin (she/hers)\
 PhD Student, Applied Mathematics\
 Statistics Consultant, Center for Research Data and Digital Scholarship\
+University of Colorado Boulder Libraries
 [elga3498@colorado.edu](mailto:elga3498@colorado.edu)
 
 Matthew Murray (he/they)\
 Data Librarian\
 Center for Research Data and Digital Scholarship\
-University of Colorado Boulder Libraries\
+University of Colorado Boulder Libraries
 [matthew.murray-2@colorado.edu](mailto:matthew.murray-2@colorado.edu)
 
 Liz Novosel (she/hers)\
@@ -101,6 +102,14 @@ Center for Research Data and Digital Scholarship
 University of Colorado Boulder Libraries  
 [Aditya.Ranganath@colorado.edu](mailto:Aditya.Ranganath@colorado.edu)
 
+Mara Sedlins (she/hers)\
+Data Management Specialist\
+Colorado State University Libraries
+
 Phil White\
 Earth, Environment and Geospatial Librarian\
 University of Colorado Boulder Libraries
+
+Kevin Worthington\
+Maps and GIS Data Specialist\
+Colorado State University Libraries

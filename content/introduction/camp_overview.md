@@ -6,7 +6,7 @@ nav_order: 4
 ---
 # Research Data Foundations Camp Overview
 
-Welcome to the August 2024 Research Data Foundations Camp. The Camp is sponsored and organized by the [Center for Research Data and Digital Scholarship (CRDDS)](https://www.colorado.edu/crdds/) at the University of Colorado Boulder, and [Colorado State University Libraries](https://lib.colostate.edu).
+Welcome to the January 2025 Research Data Foundations Camp. The Camp is sponsored and organized by the [Center for Research Data and Digital Scholarship (CRDDS)](https://www.colorado.edu/crdds/) at the University of Colorado Boulder, and [Colorado State University Libraries](https://lib.colostate.edu).
 
 It is likely that you will work with research data at some point during the course of your respective graduate programs. The goal of this Research Data Camp is to provide you with an overview of some of the skills, strategies, and best practices that will help you to get started in pursuing this kind of work. The Camp does not presuppose any prior experience in working with research data, and all of the sessions are introductory in nature. Our purpose is not to help you master any given topic, but to provide a useful and productive starting point for further exploration and learning. As you explore further after the Camp and into the semester, we hope you'll make use of your campus's many resources, such as opportunities for individual consultations and workshops (many of which will cover the material introduced here in greater depth). More information about these opportunities is provided on the CRDDS and CSU websites.
 
