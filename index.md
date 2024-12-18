@@ -16,23 +16,23 @@ _Slides and other workshop content not yet finalized._
 | --- | ---|----|
 | 10:00-10:25 | [Welcome and Introduction](content/introduction.html)|Matthew Murray|
 | 10:30-11:15| [Data Discovery](content/data-discovery.html)| Liz Novosel|
-| 11:15-12:00| [Interdisciplinary Tools Tour](content/interdisciplinary-tour.html)| Nickoal Eichmann-Kalwara|
+| 11:15-12:00| Introduction to [Final Project](content/wrap-up/microcredential.html)|
 | 12:00-1:00| Break|
 | 1:00-3:00| [GitHub](content/git_github.html)| Phil White|
 | 3:00-3:15| Break|
-| 3:15-4:30| Working Session #1|
+| 3:15-4:00| [Data Ethics](content/data-ethics.html)| Katerina Allmendinger|
 
 ### Wednesday, January 8th
 
 | Time | Content|Presenter(s)|
 | --- | ---|----|
 | 10:00-11:15| [Data Management](content/data_management.html)|Mara Sedlins|
-| 11:15-12:00| [Data Ethics](content/data-ethics.html)| Katerina Allmendinger|
-| 12:00-1:00 | Break|
-| 1:00-2:00| [Data Publishing](content/data-publishing-CU-scholar.html)| Melissa Cantrell|
-| 2:00-3:00 | Python & R Installation Clinic|
+| 11:15-12:00| [Interdisciplinary Tools Tour](content/interdisciplinary-tour.html)| Nickoal Eichmann-Kalwara|
+| 12:00-1:30 | Break|
+| 1:30-2:30| [Data Publishing](content/data-publishing-CU-scholar.html)| Melissa Cantrell|
+| 2:30-3:30| Working Session #1: Set up GitHub Repository|
 | 3:00-3:15| Break|
-| 3:15-4:30| Working Session #2|
+| 3:15-4:00| Python & R Installation Clinic| 
 
 ### Thursday, January 9th
 
@@ -42,7 +42,7 @@ _Slides and other workshop content not yet finalized._
 | 12:00-1:00| Break
 | 1:00-3:00 | [Data Analysis in R, Session #2](content/data-analysis-in-R.html)|Ellery Galvin|
 | 3:00-3:15| Break|
-| 3:15-4:30| Working Session #3|
+| 3:15-4:30| Working Session #2|
 
 ### Friday, January 10th
 
@@ -53,6 +53,16 @@ _Slides and other workshop content not yet finalized._
 | 1:00-3:00| [Python Fundamentals/Data Visualization in Python, Session #2](content/data-analysis-in-python/python201.html)| Kevin Worthington|
 | 3:00-3:15| Break|
 | 3:15-4:30| Working Session #3|
+
+### Tuesday, Jnauary 14th (Optional)
+
+| --- | ---|----|
+| 12:00-1:00| Get help with the [Final Project](content/wrap-up/microcredential.html) at [CRDDS Interdisciplinary Consultation Hours](https://colorado.libcal.com/calendar/events/CHTuesdays10)
+
+### Thursday, Jnauary 16th (Optional)
+
+| --- | ---|----|
+| 1:00-2:00| Get help with the [Final Project](content/wrap-up/microcredential.html) at [CRDDS Interdisciplinary Consultation Hours](https://colorado.libcal.com/event/13797344) (in-person or virtual)
 
 _Actual schedule may vary depending on group needs; all times refer-Mountain Standard Time (MST)_  
 

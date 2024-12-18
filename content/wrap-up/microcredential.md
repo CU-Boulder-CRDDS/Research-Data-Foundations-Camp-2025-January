@@ -62,7 +62,7 @@ To give you a sense of the nature and scope of a possible project, consider the 
 
 3. **Explore relevant online resources** In addition to reaching out to us for help, we also encourage you to take this opportunity to troubleshoot possible problems by seeking help from online resources and documentation relevant to R and Python. These resources are substantial, and an important part of the learning process involves self-directed troubleshooting using these resources.
 
-## help
+## Help
 
 If you need help you can attend CRDDS' Interdisciplinary Consultation Hours on [Tuesday, January 14th](https://colorado.libcal.com/calendar/events/CHTuesdays10) from 12:00-1:00pm (in-person or virtual) or [Thursday, January 16th](https://colorado.libcal.com/calendar/events/CHThursdays) from 1:00-2:00pm (virtual only). If you plan to attend either of these sessions, please complete the registration forms linked above.
 
