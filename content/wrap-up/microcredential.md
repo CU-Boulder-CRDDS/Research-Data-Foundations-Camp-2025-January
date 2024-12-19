@@ -33,6 +33,12 @@ Final projects will consist of a portfolio of work hosted on a GitHub repository
 
 3. **Data set Evaluation**: A brief (250-500 words) that evaluates a data set with respect to one of the FAIR principles, and best practices for data publishing more generally. In the write-up, you might reflect on the challenges that a user of the data set might encounter, or suggest changes to the data set's documentation or metadata with a view towards enhancing its reusability for future users.
 
+## Working sessions
+
+There will be dedicated working sessions distributed across the four days of our Research Data Camp for you to make progress towards earning the Microcredential; our hope is that by using this time productively, you will be able to finish (or be close to finishing) the Microcredential requirements by the time the Camp concludes on Friday. Camp instructors will be available during these working sessions to assist you on Microcredential-related tasks. 
+
+In the first working session (on Wednesday) you will work on identifying a dataset of interest, completing the dataset evaluation, and pushing the evaluation to a dedicated GitHub Repository that will host your Microcredential project materials. Note that looking for a dataset can sometimes be a time consuming task, so you may want to get started on this on Tuesday (using what you’ve learned from the “Data Discovery” session).
+
 ## Making Your Microcredential GitHub Repository
 
 Please add files that correspond to the above requirements (a statement of a question or hypothesis, an R script or Python script, and data set evaluation) to a GitHub repository that is specifically created to host your Microcredential project materials. When all of your material is uploaded, please send us a link to your repository by completing this [form](https://docs.google.com/forms/d/e/1FAIpQLScg1zEMAX7CqgimJc53fyBroUagLvjjLPkNMfdR5-8nx0OhcA/viewform?usp=share_link).

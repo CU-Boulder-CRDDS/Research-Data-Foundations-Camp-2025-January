@@ -30,7 +30,7 @@ _Slides and other workshop content not yet finalized._
 | 11:15-12:00| [Interdisciplinary Tools Tour](content/interdisciplinary-tour.html)| Nickoal Eichmann-Kalwara|
 | 12:00-1:30 | Break|
 | 1:30-2:30| [Data Publishing](content/data-publishing-CU-scholar.html)| Melissa Cantrell|
-| 2:30-3:30| Working Session #1: Set up GitHub Repository|
+| 2:30-3:30| Working Session #1|
 | 3:00-3:15| Break|
 | 3:15-4:00| Python & R Installation Clinic| 
 
@@ -54,12 +54,12 @@ _Slides and other workshop content not yet finalized._
 | 3:00-3:15| Break|
 | 3:15-4:30| Working Session #3|
 
-### Tuesday, Jnauary 14th (Optional)
+### Tuesday, January 14th (Optional)
 
 | --- | ---|----|
 | 12:00-1:00| Get help with the [Final Project](content/wrap-up/microcredential.html) at [CRDDS Interdisciplinary Consultation Hours](https://colorado.libcal.com/calendar/events/CHTuesdays10) (in-person or virtual)
 
-### Thursday, Jnauary 16th (Optional)
+### Thursday, January 16th (Optional)
 
 | --- | ---|----|
 | 1:00-2:00| Get help with the [Final Project](content/wrap-up/microcredential.html) at [CRDDS Interdisciplinary Consultation Hours](https://colorado.libcal.com/event/13797344) (virtual)
