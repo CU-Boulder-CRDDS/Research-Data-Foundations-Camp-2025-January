@@ -57,12 +57,12 @@ _Slides and other workshop content not yet finalized._
 ### Tuesday, Jnauary 14th (Optional)
 
 | --- | ---|----|
-| 12:00-1:00| Get help with the [Final Project](content/wrap-up/microcredential.html) at [CRDDS Interdisciplinary Consultation Hours](https://colorado.libcal.com/calendar/events/CHTuesdays10)
+| 12:00-1:00| Get help with the [Final Project](content/wrap-up/microcredential.html) at [CRDDS Interdisciplinary Consultation Hours](https://colorado.libcal.com/calendar/events/CHTuesdays10) (in-person or virtual)
 
 ### Thursday, Jnauary 16th (Optional)
 
 | --- | ---|----|
-| 1:00-2:00| Get help with the [Final Project](content/wrap-up/microcredential.html) at [CRDDS Interdisciplinary Consultation Hours](https://colorado.libcal.com/event/13797344) (in-person or virtual)
+| 1:00-2:00| Get help with the [Final Project](content/wrap-up/microcredential.html) at [CRDDS Interdisciplinary Consultation Hours](https://colorado.libcal.com/event/13797344) (virtual)
 
 _Actual schedule may vary depending on group needs; all times refer-Mountain Standard Time (MST)_  
 
