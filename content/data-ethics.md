@@ -9,7 +9,6 @@ nav_order: 1.501
 
 ## Instructor
 
-Nickoal Eichmann-Kalwara (Digital Scholarship Librarian) and 
 Katerina Allmendinger (Success and Engagement Librarian)\
 University of Colorado Boulder Libraries
 
