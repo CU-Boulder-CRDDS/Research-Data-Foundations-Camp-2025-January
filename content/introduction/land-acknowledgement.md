@@ -6,7 +6,7 @@ nav_order: 0.5
 ---
 # Land acknowledgement
 
-Before beginning the workshop, we'd like to acknowledge the indigenous lands upon which our institutions reside.    
+Before beginning the workshop, we'd like to acknowledge the Indigenous lands upon which our institutions reside.    
 
 [University of Colorado Boulder](https://www.colorado.edu/about/land-acknowledgment)
 
@@ -20,3 +20,4 @@ Colorado State University acknowledges, with respect, that the land we are on to
 CSU is founded as a land-grant institution, and we accept that our mission must encompass access to education and inclusion. And, significantly, that our founding came at a dire cost to Native Nations and peoples whose land this University was built upon. This acknowledgment is the education and inclusion we must practice in recognizing our institutional history, responsibility, and commitment.
 
 <iframe src="https://native-land.ca/api/embed/embed.html?maps=territories&position=39.739235,-104.990250" style="width:100%; height:300px; border:none;"></iframe>
+[https://native-land.ca](https://native-land.ca/)

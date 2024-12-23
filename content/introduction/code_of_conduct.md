@@ -35,4 +35,4 @@ publication of private communication without consent
 
 Participants are required to adhere to this Code of Conduct in all Camp-related activities. If you believe someone has this Code of Conduct in any way, please contact one of the Research Data Camp Coordinators. CRDDS reserves the right to expel any participant from the Camp for a Code of Conduct violation.
 
-This Code of Conduct has been adapted from the Carpentries' [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). 
+This Code of Conduct has been adapted from the Carpentries' [Code of Conduct](https://docs.carpentries.org/policies/coc/). 

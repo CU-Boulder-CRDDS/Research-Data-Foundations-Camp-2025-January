@@ -31,8 +31,7 @@ _Slides and other workshop content not yet finalized._
 | 12:00-1:30 | Break|
 | 1:30-2:30| [Data Publishing](content/data-publishing-CU-scholar.html)| Melissa Cantrell|
 | 2:30-3:30| Working Session #1|
-| 3:00-3:15| Break|
-| 3:15-4:00| Python & R Installation Clinic| 
+| 3:30-4:00| Python & R Installation Clinic| 
 
 ### Thursday, January 9th
 
