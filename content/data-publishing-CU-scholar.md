@@ -13,11 +13,6 @@ Melissa Cantrell\
 Scholarly Communication Librarian\
 Center for Research Data and Digital Scholarship
 
-Matthew Murray\
-Data Librarian\
-Center for Research Data and Digital Scholarship
-
-
 ## Session Synopsis
 
 This section provides an overview of resources, requirements, and best practices relevant to data management and data publishing.
