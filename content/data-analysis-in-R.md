@@ -15,7 +15,7 @@ Statistics Specialist, Center for Research Data and Digital Scholarship
 
 ## Introduction
 
-This session provides a primer on using R and R Studio for data-based research. 
+This section provides a primer on using R and R Studio for data-based research.  The first session from 10-12 teaches fundamental skills all R programmers should know: functions, variables, installing packages, loading data, vectors, dataframes, wrangling, and visualization.  It assumes the participant has never coded before.  The second session from 1-2 covers modeling and statistics, assuming the content studied in the morning: t-tests, linear models, ANOVA, and mixed effects.  The session covers programming skills and some statistics concepts as well.  The third session covers fundamental skills in text mining: wordclouds, tm, and stringr.
 
 ## Preliminaries
 
