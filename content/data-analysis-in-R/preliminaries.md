@@ -6,22 +6,21 @@ nav_order: 1
 has_children: false
 ---
 
-## R and R Studio Installation
+## Software installation
 
-For instructions on how to download R and R Studio, please see the following: [https://posit.co/download/rstudio-desktop/#download](https://posit.co/download/rstudio-desktop/#download).
+For instructions on how to download R and R Studio, please see the following: [https://posit.co/download/rstudio-desktop/#download](https://posit.co/download/rstudio-desktop/#download).   Install both on your machine.  R is the programming language, which enables your computer to understand R code, and RStudio is an Integrated Development Environment (IDE for short) that provides a user interface specialized for writing R code.
 
-## Session data
+Next, navigate to [https://quarto.org/docs/download/](https://quarto.org/docs/download/) and install the Quarto CLI for your operating system.  It may prompt you to install other things (such as pandoc or developer tools) which you should do if requested.  Quarto is software that enables you to combine code, output, text, figures, tables and more into a published document such as a website or a pdf file.  It also provides a notebook interface to R, which is a powerful way to break down code into small manageable parts.
 
-Before beginning the lesson, please download the data to a directory on your computer. Simply click the blue button below:
+## Session materials
+Before beginning the lesson, please download the materials linked below and put the .zip file in a thoughtful location on your computer (maybe in Documents inside a folder called "Research Data Foundations".  Then, double click the .zip file to expand it into a folder.  Inside the folder, you will find everything needed for the session; peruse the README.md file if you wish to explore its contents ahead of time.
 
-[Download Data](presentation_materials/wos.zip){: .btn .btn-blue }. 
+Before the session, open RStudio, use the files pane in the lower right square to navigate to the location where you saved the materials.  Inside the folder, there is a file called "setup.R".  Open this file.  In the upper right of the pane showing the contents of the file (it has the line install.packages) there is button called "source".  Click this button once.  This action will cause R to execute the code in the file, installing all the packages you will need.
 
-## Session Packages
+[Download Session Materials](https://osf.io/qmren/files/osfstorage/677d526fd561c8e39dd10ae4){: .btn .btn-blue }. 
 
-Please make sure to install the R packages that will be used in the lesson before it begins. To do so, please first download the following R Script by clicking on the blue button below:
 
-[Download Package Installation Script](presentation_materials/setup.R){: .btn .btn-blue }. 
-
-After opening up the script in R Studio, click the *Source* button at the top right of the top left panel. This button will run the code in the file. The code installs all the packages needed for the lesson. This process should not take more than 15 minutes; if you encounter any issues, please email the instructor before the lesson at the following address: [elga3498@colorado.edu](mailto:elga3498@colorado.edu). 
+## Solutions
+After the session, additional solutions will be posted here.
 
 
