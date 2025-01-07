@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 3. Advanced
+title: 4. Advanced GitHub Pages
 parent: GitHub and GitHub Pages
 has_children: false
-nav_order: 3
+nav_order: 4
 ---
 
 # So you want to get fancy?  

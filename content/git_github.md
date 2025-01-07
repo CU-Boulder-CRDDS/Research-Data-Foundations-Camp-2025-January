@@ -11,28 +11,31 @@ Welcome to this Introductory workshop on GitHub Pages. During the workshop, we w
 
 ____
 ### Presenter
-Phil "Chainsaw" White <a href='https://github.com/philwhite' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
+Phil White <a href='https://github.com/philwhite' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
 Earth, Environment & Geospatial Librarian  
 University of Colorado Boulder Libraries  
 [philip.white@colorado.edu](mailto:philip.white@colorado.edu)
 
-- Please create a [GitHub account](https://github.com/) right now if you have yet to do so.
+- Please create a [GitHub account](https://github.com/) right now if you have yet to do so.  
+- Download and install [Git](https://git-scm.com/).  
+- Download and install the [GitHub Desktop Client](https://desktop.github.com/download/) (Optional).  
 {: .prereq}
 
 ### Goal of this Workshop
-The goal of this workshop is to get you started on GitHub Pages. This is *not* a workshop on Git. We will discuss Git some, but mainly we will focus on GitHub and getting you comfortable with GitHub Pages so you can set up a great looking, free, easy website for your projects or portfolio.
+The goal of this workshop is to get familiarized with Git, GitHub, GitHub Pages, and their workflows. We will discuss Git and GitHub, and we will use GitHub Pages as a primer.
 
-CRDDS regularly offers [Git & GitHub workshops](https://calendar.colorado.edu/event/git_github_in-depth_short_course).
+CRDDS regularly offers [Git & GitHub workshops](https://www.colorado.edu/crdds/events).
 
 ### Schedule
 
 | Time | Content
 | --- | ---
-| 10:00 | Introductions
-| 10:05 | Slides: Git/GitHub Background and GH Pages
-| 10:30 | Hands on: Fork it! Spin it! Play!
-| 11:15 | Advanced customization: Themes, running locally, workflows
-| 11:45 | Wrap Up / Q&A
+| 1:00 | Introductions
+| 1:05 | Slides: Git/GitHub Background and GH Pages
+| 1:25 | Demo: GitHub Desktop and Git Commands
+| 2:00 | Hands on: GitHub Pages
+| 2:45 | Demo: GitHub Pages Advanced
+| 2:55 | Wrap Up / Q&A
 
 ### Slides  
 <iframe width="625" height="352" frameborder="0" marginheight="0" marginwidth="0" src="slides/GitHub-GH-Pages.html"></iframe> *Click on the slides then press the F key for full screen*

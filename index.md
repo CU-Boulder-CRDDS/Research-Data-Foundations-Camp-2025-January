@@ -31,16 +31,19 @@ _Slides and other workshop content not yet finalized._
 | 12:00-1:30 | Break|
 | 1:30-2:30| [Data Publishing](content/data-publishing-CU-scholar.html)| Melissa Cantrell|
 | 2:30-3:30| Working Session #1|
-| 3:30-4:00| Python & R Installation Clinic| 
+| 3:30-4:00| Python Installation Clinic| 
 
 ### Thursday, January 9th
 
 | Time | Content|Presenters(s)|
 | --- | ---|----|
-| 10:00-12:00 | [Data Analysis in R, Session #1](content/data-analysis-in-R.html)|Ellery Galvin|
-| 12:00-1:00| Break
-| 1:00-3:00 | [Data Analysis in R, Session #2](content/data-analysis-in-R.html)|Ellery Galvin|
-| 3:00-3:15| Break|
+| 9:30 - 10:00| R Installation Clinic |
+| 10:00-12:00 | [Data Analysis in R, Fundamentals](content/data-analysis-in-R.html)|Ellery Galvin |
+| 12:00-1:00| Break |
+| 1:00-2:00 | [Data Analysis in R, Modeling and Statistics](content/data-analysis-in-R.html)|Ellery Galvin|
+| 2:00-2:15 | Break 
+| 2:15-3:15| [Data Analysis in R, Text mining](content/data-analysis-in-R.html)|Ellery Galvin|
+| 3:15-3:30| Optional Break | |
 | 3:15-4:30| Working Session #2|
 
 ### Friday, January 10th
