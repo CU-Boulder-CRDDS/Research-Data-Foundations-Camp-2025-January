@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 2. Hands On
+title: 3. Hands On
 parent: GitHub and GitHub Pages
 has_children: false
-nav_order: 2
+nav_order: 3
 ---
 
 # Time to press some buttons!  
