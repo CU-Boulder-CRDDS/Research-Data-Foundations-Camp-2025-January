@@ -42,7 +42,7 @@ _Slides and other workshop content not yet finalized._
 | 12:00-1:00| Break |
 | 1:00-2:00 | [Data Analysis in R, Modeling and Statistics](content/data-analysis-in-R.html)|Ellery Galvin|
 | 2:00-2:15 | Break 
-| 2:15-3:15| [Data Analysis in R, Text mining](content/data-analysis-in-R.html)|Ellery Galvin]|
+| 2:15-3:15| [Data Analysis in R, Text mining](content/data-analysis-in-R.html)|Ellery Galvin|
 | 3:15-3:30| Optional Break | |
 | 3:15-4:30| Working Session #2|
 
