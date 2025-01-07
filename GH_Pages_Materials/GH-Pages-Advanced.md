@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4. Advanced
+title: 4. Advanced GitHub Pages
 parent: GitHub and GitHub Pages
 has_children: false
 nav_order: 4
