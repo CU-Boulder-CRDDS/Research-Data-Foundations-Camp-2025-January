@@ -28,3 +28,5 @@ Miniconda is a lightweight version of Anaconda. It can be installed completely f
 It should be noted that Anaconda and Miniconda are free for research purposes, but should you require a solution without limitations on use, please try the Miniconda equivalent [Conda Forge](https://conda-forge.org/). The above conda commands for installing the required packages are the same.
 
 Virtual Office hours are available on Wednesday at 2:00 to assist with installation of Python and the required packages.
+
+The related Python files are available in this [Python Data Analysis and Visualization](https://github.com/GeospatialCentroid/Python-Data-Analysis-and-Visualization) repo.
